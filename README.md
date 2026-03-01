@@ -65,16 +65,6 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
 
 # 📊 GitHub Stats
 
-<p align="center">
-  
-  <img height="170" src="https://streak-stats.demolab.com?user=sumit03062&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sumit03062/sumit03062/output/github-contribution-grid-snake.svg" />
-</p>
----
 
 # 📊 GitHub Analytics
 
@@ -82,6 +72,12 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
   <img height="170" src="https://api.github-readme-stats.vercel.app/api?username=sumit03062&show_icons=true&theme=transparent&hide_border=true&title_color=00F5A0&text_color=ffffff&icon_color=00D9F5"/>
   <img height="170" src="https://streak-stats.demolab.com?user=sumit03062&theme=transparent&hide_border=true&ring=00F5A0&fire=00D9F5&currStreakLabel=00F5A0"/>
 </p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumit03062/sumit03062/output/github-contribution-grid-snake.svg" />
+</p>
+---
 
 # 💼 Professional Experience
 
