@@ -1,18 +1,4 @@
-Understood. You want your README to look **modern, animated, and visually structured** — similar to high-quality GitHub profile READMEs with tech badges, GIFs, and stack styling.
 
-Below is a **production-ready GitHub README version** with:
-
-* Animated coding GIF
-* Tech stack badges (stack-style)
-* Clean section hierarchy
-* Professional positioning
-* AI-focused branding
-* GitHub stats section
-* Contact section
-
-You can copy-paste this directly into your `README.md`.
-
----
 
 # 👋 Hi, I’m Sumit Kumar
 
