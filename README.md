@@ -54,9 +54,7 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00D9F5&height=3&section=header"/>
-</p>
+
 
 # 🛠️ Tech Stack 
 
@@ -90,9 +88,7 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00D9F5&height=3&section=header"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00D9F5&height=3&section=header"/>
-</p>
+
 
 # 📊 GitHub Analytics
 
@@ -113,9 +109,7 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00D9F5&height=3&section=header"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00D9F5&height=3&section=header"/>
-</p>
+
 
 # 🐍 Contribution Snake
 
