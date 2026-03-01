@@ -14,7 +14,7 @@
 
 <!-- ====================== Matrix Rain Animation ====================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=200&section=header&text=Sumit%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 ---
 
