@@ -8,10 +8,11 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: sumit03062
           outputs: |
             dist/github-contribution-grid-snake.svg
 
