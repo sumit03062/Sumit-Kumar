@@ -124,16 +124,21 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
 
 # 💼 Professional Experience
 
-### Python Developer Intern — Invictus Engineers (2025–Present)
+### Full Stack Developer — Beverly Hills (march-2026–Present)
 
-* Built full-stack AI-powered applications
-* Integrated OpenAI & Google Gemini APIs
-* Worked on scalable backend architecture
+* Built full-stack AI-powered E-Commerce applications
+* Worked on scalable backend architecture on Django and next.js
 
-### Frontend Developer — EchronTech
+* ### Full Stack Developer — MSTY Enterprise (nov-2025-march-2026)
+
+* Built full-stack web applications 
+* Worked on scalable backend architecture on laravel 
+
+### Frontend Developer — EchronTech (july-2025 - nov-2025)
 
 * Developed responsive Laravel-based UI
 * Improved REST API integration & performance
+* build csm and integrate with frontend 
 
 ### Full Stack Python Developer Intern — CodSoft
 
