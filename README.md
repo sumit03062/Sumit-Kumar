@@ -129,7 +129,7 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
 * Built full-stack AI-powered E-Commerce applications
 * Worked on scalable backend architecture on Django and next.js
 
-* ### Full Stack Developer — MSTY Enterprise (nov-2025-march-2026)
+### Full Stack Developer — MSTY Enterprise (nov-2025-march-2026)
 
 * Built full-stack web applications 
 * Worked on scalable backend architecture on laravel 
